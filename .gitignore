@@ -1,0 +1,6 @@
+data/
+*.h5ad
+*.log
+.ipynb_checkpoints/
+__pycache__/
+.claude/
